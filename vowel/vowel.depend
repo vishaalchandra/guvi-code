@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1502694440 source:c:\git\guvi-code\vowel\main.c
+	<stdio.h>
+	<stdlib.h>
+
