@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1503390889 source:c:\git\guvi-code\alpha\main.c
+	<stdio.h>
+	<stdlib.h>
+
